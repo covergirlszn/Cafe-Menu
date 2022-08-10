@@ -29,3 +29,6 @@ Add the following within the head element:
 SO THE VARIABLE NAME when you check pon the javascripp gives you a humble viewport sef, and then the content, kinda like style is thaat the width of said sontent should be the same width as the device
 
 fka responsive design
+
+and burlywood is #deb887
+i think it makes sense to use percentages instead of pixels for sizing inna css as then it translates on the mobile thing....
