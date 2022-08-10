@@ -10,3 +10,10 @@ CSS STANDARD LAYOUT
 element { <!--you can use a .element if you want to incorporate class-->
  property: value;
 }
+fun fact you can also do, 
+
+element, element, {
+    prop:val;
+}
+
+which i think is veryyy cool 
