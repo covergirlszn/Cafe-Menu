@@ -3,3 +3,7 @@ h1, h2,p {
   }
 
   /*OMG YOU CAN ASSIGN MULTIPLE ELEMENTS W CSS???*/
+
+  body{
+    background-color:brown;
+  }
