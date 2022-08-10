@@ -32,3 +32,6 @@ fka responsive design
 
 and burlywood is #deb887
 i think it makes sense to use percentages instead of pixels for sizing inna css as then it translates on the mobile thing....
+
+TO REITERATE
+ center a div with margin auto settings

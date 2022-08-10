@@ -4,13 +4,22 @@ h1, h2,p {
 
   /*OMG YOU CAN ASSIGN MULTIPLE ELEMENTS W CSS???*/
 
-  body{
-   /* background-color:burlywood; */
+  body {
+  
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    
   }
 
-  div {
+  .menu {
     width: 80%;
     background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+
+
     /*this makes it 80% of whatever the body size is set to btw, not the full html 
-    page, so if body set 1000px, div na 800px inna width*/
+    page, so if body set 1000px, div na 800px inna width
+    
+    also center a div with margin auto settings
+    */
   }
