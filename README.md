@@ -35,3 +35,5 @@ i think it makes sense to use percentages instead of pixels for sizing inna css 
 
 TO REITERATE
  center a div with margin auto settings
+
+ sorry since when could you use an url to change a background image???
