@@ -23,3 +23,10 @@ h1, h2,p {
     also center a div with margin auto settings
     */
   }
+
+  .item p{
+
+    display:inline-block;
+  }
+  /*okay so this means that if you have a paragraph element??? 
+  and that paragraph element is called item?? then you appply the following css*/
