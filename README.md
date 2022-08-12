@@ -3,7 +3,15 @@ freecodecamp s1 e2
 __________________________________________________________________________
 
 so header is semantic, to describe that it's a header, cute
-        is there a way of inventing your own tags for html?
+        is there a way of inventing your own tags for html? yessir
+    
+    <style type="text/css">
+    angrydiv { background: red; color: white; display: block; }
+    </style>
+
+    <angrydiv>Arrrg!</angrydiv>
+
+AND IT WORKS!!!
 
 CSS STANDARD LAYOUT
 
@@ -19,6 +27,7 @@ element, element, {
 which i think is veryyy cool 
 
 okay so what does rel mean, because i know it's for stylesheets but wag1 with it fr??
+.....its for relationship!!! so link rel=stylesheet means its the stylesheet for the given html
 
 hmmm--RESPONSIVE TINGS
 For the styling of the page to look similar on mobile as it does on a desktop or laptop, you need to add a meta element with a special content attribute. 
@@ -43,3 +52,7 @@ TO REITERATE
  ________________________________________________________________
 
  but anyways i will come back to inline later because this is starting to confuse me ngl
+
+ 12.8
+ ____________________________________________
+inline-block elements only take up the width of their content. so "french vanilla" is like 2cm
