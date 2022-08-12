@@ -49,7 +49,23 @@ TO REITERATE
 
 
  WHAT DOES SPACEBAR MEAN IN CSS SCHOOL OF PARENTING???
- ________________________________________________________________
+ <!--
+ is this code??
+ but spacebar means descendant
+ i think it means take characteristics of both css classes 
+
+ icl i feel like this was html as opposed to for css but we move
+
+OH SO IF YOU HAVE AN ELEMENT INSIDE OF THE OTHER THEN USE THE FOLLOWING CSS
+
+ -->
+ por ejemplo
+    div p {
+  background-color: yellow;
+}
+SE IF YOU HAVE A DIV WITH A P INSIDE MAKE THE BG YELLOWWW
+https://www.w3schools.com/css/css_combinators.asp
+________________________________________________________________
 
  but anyways i will come back to inline later because this is starting to confuse me ngl
 

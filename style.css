@@ -29,8 +29,22 @@ h1, h2,p {
   .item p{
 
     display:inline-block;
-    
-  }
-  /*okay so this means that if you have a paragraph element??? 
+      /*okay so this means that if you have a paragraph element??? 
   and that paragraph element is called item?? then you appply the following css
   meaning the stuff underneath is now on one line*/
+  }
+
+  .flavor {
+    text-align: left;
+    width: 40%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 49%;
+  }
+  /*OKAY SO the width increase will widen each of the para blocks,,
+  that means doing 50% may create an extra line....this could be solved by using span ngl
+  we move tho */
+
+  /*read pls*/
