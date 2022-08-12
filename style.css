@@ -70,3 +70,9 @@ h1, h2,p {
   h1, h2 {
     font-family: Impact, serif;
   }
+
+  hr{
+    height:3px;
+    background-color:brown;
+    /*get rid of the outline too babe, use the border colour for that*/
+  }
