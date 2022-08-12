@@ -30,7 +30,8 @@ h1, h2,p {
     */
   }
 
-  angrydiv { background: red; color: white; display: block; }
+  angrydiv { background: rgb(116, 52, 0); color: white; 
+    display: block; }
 
   .item p{
 
