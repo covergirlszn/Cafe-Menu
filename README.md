@@ -72,3 +72,11 @@ ________________________________________________________________
  12.8
  ____________________________________________
 inline-block elements only take up the width of their content. so "french vanilla" is like 2cm
+
+in this instance as well, article has class item which is assigned to only paragraphs... and puts both paragraph elements on the same line as opposed to under eachother because they're paragraphs
+
+and apparently putting the set of para elements next to eachother with no space, after doing the inline assignment, meants the extra spaces are deleted, which kinda makes sense
+
+i hope this makes sense later but the reason there was space after the number was not because of the spacebar thing......okay you put it at 48% and so it would have startted at the 48 from the flavour and then theres the space. the element is already like to the edge anyways so the gap is because it's taking up less of the page, then also because apparently that extra space does something in in line
+
+whew
