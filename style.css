@@ -36,12 +36,12 @@ h1, h2,p {
 
   .flavor {
     text-align: left;
-    width: 40%;
+    width: 75%;
   }
   
   .price {
     text-align: right;
-    width: 49%;
+    width: 25%;
   }
   /*OKAY SO the width increase will widen each of the para blocks,,
   that means doing 50% may create an extra line....this could be solved by using span ngl

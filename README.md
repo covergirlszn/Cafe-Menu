@@ -80,3 +80,4 @@ and apparently putting the set of para elements next to eachother with no space,
 i hope this makes sense later but the reason there was space after the number was not because of the spacebar thing......okay you put it at 48% and so it would have startted at the 48 from the flavour and then theres the space. the element is already like to the edge anyways so the gap is because it's taking up less of the page, then also because apparently that extra space does something in in line
 
 whew
+image.png
