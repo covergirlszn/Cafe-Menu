@@ -15,6 +15,8 @@ h1, h2,p {
     background-color: burlywood;
     margin-left: auto;
     margin-right: auto;
+    padding:20px;
+
 
 
     /*this makes it 80% of whatever the body size is set to btw, not the full html 
@@ -34,7 +36,7 @@ h1, h2,p {
   meaning the stuff underneath is now on one line*/
   }
 
-  .flavor {
+ .dessert, .flavor {
     text-align: left;
     width: 75%;
   }
