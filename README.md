@@ -81,3 +81,16 @@ i hope this makes sense later but the reason there was space after the number wa
 
 whew
 image.png
+____________________________________________
+16.8
+long time smh
+
+The menu text CAMPER CAFE has a different space from the top than the address's space at the bottom of the menu. This is due to the browser having some default top margin for the h1 element.
+
+answer
+h1 {
+  margin:0px;
+  font-size: 40px;
+}
+bare in mind font size a deya deja
+you need to analyse this later
