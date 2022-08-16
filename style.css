@@ -9,6 +9,11 @@ h1, h2,p {
   
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
+    padding:20px; 
+/*
+okay so this padding means that the inside is kinda squished due to the padding....
+it makes the inside sections smalled
+*/
 }
 
 
@@ -36,6 +41,10 @@ h1, h2,p {
   .item p{
 
     display:inline-block;
+    margin-top:5px;
+    margin-bottom:5px;
+    /*this margin makes the gap in the menu items largerxx*/
+
       /*okay so this means that if you have a paragraph element??? 
   and that paragraph element is called item?? then you appply the following css
   meaning the stuff underneath is now on one line*/
@@ -79,4 +88,12 @@ h1, h2,p {
     /*get rid of the outline too babe, use the border colour for that
     i think she messed up with the push and pull thingy
     */
+  }
+
+  footer {
+    font-size: 14px;
+  }
+
+  .bottom-line {
+    margin-top: 25px;
   }
