@@ -73,8 +73,12 @@ h1, h2,p {
   }
 
   hr{
-    height:3px;
+    height:2px;
     background-color:brown;
+<<<<<<< HEAD
     border-color: brown;
+=======
+    border: brown;
+>>>>>>> c37fce1cce0cda10e26d1d73e87868e56c627cb3
     /*get rid of the outline too babe, use the border colour for that*/
   }
