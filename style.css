@@ -101,9 +101,21 @@ it makes the inside sections smalled
 a{
   color:black;}
 
+  /*A TAGS!! YOU CAN CHANGE THEM TOO*/
   a:visited{
     color:grey;
   }
+
+  a:hover{
+    color:brown;
+    font-weight: 700;
+  }
+
+  a:active{
+    color:white;
+  }
+
+  /*hovering you can change the effect too!*/
   
   /*ohmygosh so you canselect if its visited and do color changes!!*/
 
