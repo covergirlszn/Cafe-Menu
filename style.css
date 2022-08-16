@@ -96,4 +96,17 @@ it makes the inside sections smalled
 
   .bottom-line {
     margin-top: 25px;
+    
   }
+a{
+  color:black;}
+
+  a:visited{
+    color:grey;
+  }
+  
+  /*ohmygosh so you canselect if its visited and do color changes!!*/
+
+  /*You change properties of a link when the link has actually
+   been visited by using a pseudo-selector that looks like 
+   a:visited { propertyName: propertyValue; }*/
