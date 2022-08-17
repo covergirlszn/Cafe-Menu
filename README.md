@@ -94,3 +94,8 @@ h1 {
 }
 bare in mind font size a deya deja
 you need to analyse this later
+
+to push it up.....the element
+ img elements to pull them up from their current positions. Negative values are created using a - in front of the value. To complete this project, go ahead and use a negative top margin of 25px in the img type selector.
+
+ so margin top beeing negative would mean instead of adding space to the margin top, you remove it so the forehead gap is smaller ygm
