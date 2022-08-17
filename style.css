@@ -101,6 +101,12 @@ it makes the inside sections smalled
     font-size: 14px;
   }
 
+  img{
+    display:block;
+    margin:auto;
+  }
+  /*fi centre the image*/
+
   .bottom-line {
     margin-top: 25px;
     
