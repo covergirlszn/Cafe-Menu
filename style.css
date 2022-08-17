@@ -104,8 +104,21 @@ it makes the inside sections smalled
   img{
     display:block;
     margin:auto;
+    margin-top:-25px;
+/*this pushed the element upward i think
+erm
+
+*/
   }
-  /*fi centre the image*/
+  /*fi centre the image....you can also use
+  
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  */
 
   .bottom-line {
     margin-top: 25px;
