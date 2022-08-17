@@ -67,6 +67,9 @@ it makes the inside sections smalled
 
   h1 {
     font-size: 40px;
+    margin-bottom:15px;
+    margin-top:15px;
+
   }
   
   h2 {
@@ -90,6 +93,10 @@ it makes the inside sections smalled
     */
   }
 
+  .address{
+    margin-bottom: 5px;
+  }
+
   footer {
     font-size: 14px;
   }
@@ -103,7 +110,7 @@ a{
 
   /*A TAGS!! YOU CAN CHANGE THEM TOO*/
   a:visited{
-    color:grey;
+    color:black;
   }
 
   a:hover{
@@ -112,7 +119,7 @@ a{
   }
 
   a:active{
-    color:white;
+    color:brown;
   }
 
   /*hovering you can change the effect too!*/
