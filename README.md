@@ -112,4 +112,4 @@ to push it up.....the element
  so apparently floating the text elements is not very sustainable. but you can stilluse it with line breaks and it comes out cute
 
  otherwise change the width of each element fi 48% and align.
- erm acc ge rid of extra space by removing the spaces. then put padding on the whokle thing
+ erm acc ge rid of extra space by removing the spaces so the text is at the edge. then put padding on the whokle thing
