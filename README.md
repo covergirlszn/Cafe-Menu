@@ -102,3 +102,14 @@ to push it up.....the element
 
  _________________________________________
  apparently this is done, i need to run through and review it because i'm just typing ngl
+
+ __________________________________________________
+
+ so you can put something in a one line say that the paras in lass item have an inline block then make the size different.
+ 
+ so you could make the pricing items touch the opposite ends of the thing. then say that the width ofthe eement they're in is smol and centre it xx
+
+ so apparently floating the text elements is not very sustainable. but you can stilluse it with line breaks and it comes out cute
+
+ otherwise change the width of each element fi 48% and align.
+ erm acc ge rid of extra space by removing the spaces. then put padding on the whokle thing

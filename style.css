@@ -38,6 +38,8 @@ it makes the inside sections smalled
   angrydiv { background: rgb(116, 52, 0); color: white; 
     display: block; }
 
+    
+
   .item p{
 
     display:inline-block;
@@ -50,14 +52,21 @@ it makes the inside sections smalled
   meaning the stuff underneath is now on one line*/
   }
 
+  .item{
+    width: 90%;
+    margin: auto;
+  }
+
  .dessert, .flavor {
     text-align: left;
-    width: 75%;
+    background-color: thistle;
+    float: left;
   }
   
   .price {
     text-align: right;
-    width: 25%;
+    float: right;
+    background-color: bisque;
   }
   /*OKAY SO the width increase will widen each of the para blocks,,
   that means doing 50% may create an extra line....this could be solved by using span ngl
